@@ -8,6 +8,7 @@ namespace GitTutorial
         {
             Console.WriteLine("Hey Veed!!");
             Console.WriteLine("Adding user authentication feature");
+            Console.WriteLine("Adding user logout feature");
         }
     }
 }
