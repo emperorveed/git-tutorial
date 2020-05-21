@@ -1,12 +1,9 @@
 ﻿using System;
 
-namespace GitTutorial
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
+namespace GitTutorial {
+    class Program {
+        static void Main (string[] args) {
+            Console.WriteLine ("Hello Magg!!");
         }
     }
 }
